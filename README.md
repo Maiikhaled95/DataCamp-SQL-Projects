@@ -1,1 +1,1 @@
-# Datacamp-SQL-Case-Studies
+# Datacamp-SQL-Projects
